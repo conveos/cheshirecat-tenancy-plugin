@@ -3,8 +3,6 @@
     "description": "A plugin to use the Cat as a Single Rag for Multiple users with that enhances document-genarated information with document filtering.",
     "author": "Conveos team",
     "version": "1.0",
-    "thumb": "https://github.com/conveos/cheshirecat-tenancy-plugin/blob/main/images/catTenant_formal.jpeg"
-
+    "thumb": "https://raw.githubusercontent.com/conveos/cheshirecat-tenancy-plugin/images/catTenant_formal.jpeg"
 }
-
 
